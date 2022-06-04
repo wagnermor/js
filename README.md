@@ -3,6 +3,8 @@
 ## Coleções Chaveadas
 *Basecamp de Javascript [Digital Innovation One](https://dio.me/sign-up?ref=DD8ANWA8RE/?target=_blank)*
 
+*<a href="https://dio.me/sign-up?ref=DD8ANWA8RE/" target="_blank">Hello test</a>*
+
 ### Atividade 1: Maps
 
 Crie uma função que retorna o nome dos membros de um Map que tem o papel 'ADMIN' no sistema.
