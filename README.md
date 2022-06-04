@@ -3,7 +3,7 @@
 ## Coleções Chaveadas
 *Basecamp de Javascript [Digital Innovation One](https://dio.me/sign-up?ref=DD8ANWA8RE){:target="\_blank"}*
 
-*<a href="https://dio.me/sign-up?ref=DD8ANWA8RE/" target="_blank">Hello test</a>*
+*<a href="https://dio.me/sign-up?ref=DD8ANWA8RE/?target=_blank">Hello test</a>*
 
 ### Atividade 1: Maps
 
