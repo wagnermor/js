@@ -1,7 +1,7 @@
 # Exercícios com Javascript
 
 ## Coleções Chaveadas
-*Basecamp de Javascript <a href="https://dio.me/sign-up?ref=DD8ANWA8RE" target="_blank">Digital Innovation One]</a>*
+*Basecamp de Javascript [Digital Innovation One](https://dio.me/sign-up?ref=DD8ANWA8RE/?target=_blank)*
 
 ### Atividade 1: Maps
 
